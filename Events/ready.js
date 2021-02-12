@@ -16,11 +16,7 @@ module.exports = client => {
   );
   client.user.setStatus("dnd");
   var oyun = [
-    "Meteorite Canary | Testing and Coding Bot",
-    "Meteorite Bot Kodlanma Aşamasındadır ve Kodlar Geçirilecektir!",
-    "Yetkili Ekibi Önerilerinizi Bekliyoruz!",
-    "Meteorite Bot yapım aşamasındadır!",
-    "Oasis Team Tarafından Geliştirilmektedir!"
+    "Enginar tarafından yapıldı."
 
   ];
 
